@@ -1,0 +1,33 @@
+
+/*==========Large deviece=======*/
+
+@media (max-width: 1199.98px) { 
+    .heroLeft__title {
+        line-height: 52px;
+    }
+    .workLeft__title {
+       
+        font-size: 39px;
+    }
+    
+    .clientPart__title {
+        font-size: 34px;
+       
+    }
+    .clientPartTitle__item {
+    
+      font-size: 25px;
+
+    }
+    .hero--viewPricing {
+        font-size: 12px;
+    }
+    .logoImag {
+        max-width: 449px;
+    }
+    .custombtn {
+        padding: 21px 42px;
+    }
+
+}
+/*==========Large deviece=======*/
